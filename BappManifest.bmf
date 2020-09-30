@@ -1,0 +1,12 @@
+Uuid: 25cf44e09aaf4acc9b5f49373c90199a
+ExtensionType: 1
+Name: San Scanner
+RepoName: san-scanner
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Alejandro Alvarado
+ShortDescription: Enumerating associated domains & services via the Subject Alt Names section of SSL certificates.
+EntryPoint: build/libs/SANScanner.jar
+BuildCommand: gradle build
